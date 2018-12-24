@@ -1,0 +1,38 @@
+Script Name: Online password generator
+Description: Create strong password for any purpose and store.
+
+
+============================ Update (20-11-2018) ==================================
+
+- Added registration from.
+- Added login.
+- Modification of database.
+
+
+============================ Update (25-11-2018) ==================================
+
+- Added home page.
+- Complete login.
+
+============================ Update (29-11-2018) ==================================
+
+- Added dashboard/leaderboard.
+- Fixed registration with special characters.
+
+============================ Update (5-12-2018) ==================================
+
+- Added random password generate function.
+- Added store the password into database.
+- Fixed some bugs.
+
+============================ Update (13-12-2018) ==================================
+
+- Added sending verification mail function.
+- Update dashboard design.
+- Added logout function.
+
+============================ Update (21-12-2018) ==================================
+
+- Added view password via mail verification function.
+- Fixed Sql bugs.
+- Modify databse.
